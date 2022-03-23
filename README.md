@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a recent CSUN graduate and aspire to be a MERN stack dev.
 <!--
 **nostalgia2021/nostalgia2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
